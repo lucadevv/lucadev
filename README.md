@@ -47,7 +47,6 @@
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/weatherapp.webp" width="400"><br><a href="https://github.com/DevLuiscode/weather_app.git">github</a></td>
   </tr>
 </table>
-<h3 align="left">Projects</h3>
 <table>
   <tr>
     <th>Tiktok Clone</th>
