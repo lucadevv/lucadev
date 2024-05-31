@@ -28,11 +28,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devluiscode&show_icons=true&locale=en&layout=compact" alt="devluiscode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucadevv&show_icons=true&locale=en&layout=compact" alt="lucadevv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devluiscode&show_icons=true&locale=en" alt="devluiscode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucadevv&show_icons=true&locale=en" alt="lucadevv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devluiscode&" alt="devluiscode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucadevv&" alt="lucadevv" /></p>
 
 <h3 align="left">Projects</h3>
 <table>
@@ -45,6 +45,15 @@
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/tiktokclone.webp" width="400"><br><a href="https://github.com/DevLuiscode/tiktokclone.git">github</a></td>
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/rickandomorty.webp" width="400"><br><a href="https://github.com/DevLuiscode/richandmorty_app.git">github</a></td>
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/weatherapp.webp" width="400"><br><a href="https://github.com/DevLuiscode/weather_app.git">github</a></td>
+  </tr>
+</table>
+<h3 align="left">Projects</h3>
+<table>
+  <tr>
+    <th>Tiktok Clone</th>
+  </tr>
+  <tr>
+    <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/musicapp_banner.webp" width="400"><br><a href="https://github.com/lucadevv/music_app">github</a></td>
   </tr>
 </table>
 
