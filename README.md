@@ -49,7 +49,7 @@
 </table>
 <table>
   <tr>
-    <th>Tiktok Clone</th>
+    <th>Music app</th>
   </tr>
   <tr>
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/musicapp_banner.webp" width="400"><br><a href="https://github.com/lucadevv/music_app">github</a></td>
